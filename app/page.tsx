@@ -11,13 +11,6 @@ const page = () => {
         <div className='right-line'/>
         <Navbar/>
         <Hero/>
-
-
-         
-
-
-
-
       </Container>
       
     </div>

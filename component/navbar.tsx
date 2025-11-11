@@ -30,7 +30,7 @@ const navbar = () => {
         ))}
 
         <button className='btn'>
-          Start free trial</button>
+          Start free trials</button>
 
 
 
